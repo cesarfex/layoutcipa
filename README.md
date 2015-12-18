@@ -16,6 +16,6 @@ Vamos a um passo-a-passo:
 
 3. Adicione os estilos ao arquivo style.css.
 
-4. Envie o tema para a equipe técnica do CIRANDAS. Há duas maneiras para fazer isso:
+4. Envie o tema para a equipe técnica do VOCE.SERPRO. Há duas maneiras para fazer isso:
 
 5. Envie o style.css e as imagens pelo GIT, faça um pull request de seu tema no repositório https://github.com/cesarfex/layoutcipa (use o tema 'template' como base).
