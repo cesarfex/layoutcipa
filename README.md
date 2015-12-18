@@ -3,9 +3,8 @@
 É possível personalizar a aparência de sua comunidade mudando o fundo, cores, fontes, e muitas outras coisas.
 
 Para manter a identidade do Você.Serpro, tem-se os seguintes critérios de modificação:
-
-Não modificar o cabeçalho
-Não modificar o texto do rodapé (o layout pode ser modificado)
+- Não modificar o cabeçalho
+- Não modificar o texto do rodapé (o layout pode ser modificado)
 
 Para construir o tema que mudará a aparência de sua comunidade, você deve ter experiência com HTML e CSS.
 
